@@ -16,7 +16,7 @@ https://fr.wikipedia.org/wiki/GitHub
     - [*Uploader* des fichiers](#uploader-des-fichiers)
     - [Modifier directement un fichier](#modifier-directement-un-fichier)
 
-### 1. Créer un compte github (gratuit)
+### 1. Créer mon compte github (gratuit)
 https://github.com/join
 
 ### 2. Cloner le repository “aw3ir” de l'utilisateur bilelz
